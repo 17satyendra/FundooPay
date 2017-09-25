@@ -1,0 +1,2 @@
+# FundooPay
+Daily expensive management
